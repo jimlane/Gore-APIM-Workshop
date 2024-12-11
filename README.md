@@ -1,5 +1,14 @@
 # Gore-APIM-Workshop
 
+### The following articles cover the workshop agenda for day #1 in detail
+<a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-versions">Versions in Azure API Management</a><br>
+<a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-revisions">Revisions in Azure API Management</a><br>
+<a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-policies">Azure API Management Policies</a><br>
+<a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/protect-backend-apis-azure-management">Protect backend APIs in Azure API Managemen</a><br>
+<a href="https://learn.microsoft.com/en-us/azure/api-management/observability">Observability in Azure API Management</a><br>
+<a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-capacity">Managing Capacity in Azure API Management</a><br>
+<a href="https://learn.microsoft.com/en-us/azure/api-management/virtual-network-concepts">Networking Concepts in Azure API Management</a><br>
+
 ### There are two sets of labs to complete
 #### Microsoft Docs Tutorials:
 ###### These are hosted on docs.microsoft.com and require you to have your own Azure subscription. These labs are hands-on and will introduce you to configuring the product:

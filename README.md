@@ -4,7 +4,7 @@
 <a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-versions">Versions in Azure API Management</a><br>
 <a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-revisions">Revisions in Azure API Management</a><br>
 <a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-policies">Azure API Management Policies</a><br>
-<a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/protect-backend-apis-azure-management">Protect backend APIs in Azure API Managemen</a><br>
+<a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/protect-backend-apis-azure-management">Protect backend APIs in Azure API Management</a><br>
 <a href="https://learn.microsoft.com/en-us/azure/api-management/observability">Observability in Azure API Management</a><br>
 <a href="https://learn.microsoft.com/en-us/azure/api-management/api-management-capacity">Managing Capacity in Azure API Management</a><br>
 <a href="https://learn.microsoft.com/en-us/azure/api-management/virtual-network-concepts">Networking Concepts in Azure API Management</a><br>
